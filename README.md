@@ -8,7 +8,7 @@ A React-based web application that allows developers to upload and visualize 3D 
 - Lightweight Design: Built with React and vanilla CSS for a fast, responsive UI.
 
 ### Tech Stack
-- ** React:** Frontend framework used for building the user interface.
+- **React:** Frontend framework used for building the user interface.
 - **Vanilla CSS:**: Custom styles without using any CSS frameworks.
 - **Three.js:** JavaScript library for 3D rendering.
 - **GSAP:** Used for smooth animations.
