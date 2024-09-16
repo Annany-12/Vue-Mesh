@@ -32,7 +32,7 @@ A React-based web application that allows developers to upload and visualize 3D 
 
 ### Future Improvements
 - **Error Handling**: Improve the robustness of the application by implementing better error handling for file uploads and rendering issues.
-- **More Files: ** Adding Support for more file formats.
+- **More Files:** Adding Support for more file formats.
 - **Performance Optimization**: Optimize 3D rendering for larger models.
 - **Additional Features**: Add support for additional file formats, real-time editing, and animations.
 
